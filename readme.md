@@ -46,7 +46,7 @@ This tool is particularly useful for:
 
 ## Get the Project Set Up:
 
-### Explanation of the  Steps:
+### Brief Overview of the  Steps:
 
   
 
